@@ -98,7 +98,7 @@ export default function MarcelineSite() {
         >
           <Heart size={200} fill="currentColor" />
         </motion.div>
-        <h2 className="text-4xl font-black uppercase mt-10 tracking-widest">Твои друзья навсегда</h2>
+        <h2 className="text-4xl font-black uppercase mt-10 tracking-widest">Твои Биба и Боба</h2>
         <p className="mt-4 font-mono opacity-80">Stay cool, Marcy.</p>
       </section>
 
